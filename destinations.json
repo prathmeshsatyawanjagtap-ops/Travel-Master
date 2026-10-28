@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Lonavala",
+    "state": "Maharashtra",
+    "categories": ["nature", "adventure", "mountains"],
+    "minimum_days": 1,
+    "daily_cost_per_person": 1500,
+    "description": "A hill station known for scenic views, caves and waterfalls."
+  },
+  {
+    "name": "Mahabaleshwar",
+    "state": "Maharashtra",
+    "categories": ["nature", "mountains", "relaxation"],
+    "minimum_days": 2,
+    "daily_cost_per_person": 2000,
+    "description": "A hill station known for viewpoints, forests and strawberry farms."
+  },
+  {
+    "name": "Goa",
+    "state": "Goa",
+    "categories": ["beach", "adventure", "relaxation"],
+    "minimum_days": 3,
+    "daily_cost_per_person": 2500,
+    "description": "A coastal destination with beaches, local food and cultural attractions."
+  },
+  {
+    "name": "Nashik",
+    "state": "Maharashtra",
+    "categories": ["nature", "culture", "relaxation"],
+    "minimum_days": 2,
+    "daily_cost_per_person": 1800,
+    "description": "A city with cultural attractions, nearby hills and scenic surroundings."
+  },
+  {
+    "name": "Kolhapur",
+    "state": "Maharashtra",
+    "categories": ["culture", "food", "history"],
+    "minimum_days": 2,
+    "daily_cost_per_person": 1600,
+    "description": "A destination known for historical attractions and regional cuisine."
+  }
+]
